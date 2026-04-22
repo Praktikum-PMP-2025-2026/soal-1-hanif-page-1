@@ -3,7 +3,7 @@
  *   Hari dan Tanggal    : Senin, 13 April 2026
  *   Nama (NIM)          : 13224087
  *   Nama File           : soal1.c
- *   Deskripsi           : Kode ini merupakan solusi dari Praktikum EL2008, Modul 1, Soal 1, yaitu Mesin Analisis Pointer. 
+ *   Deskripsi           : Kode ini merupakan solusi dari Praktikum EL2008, Modul 1, Soal 1, yaitu Mesin Analisis Pointer. Problem ini mengharuskan kode untuk menerima input jumlah data, lalu menerima sejumlah data sejumlah input jumlah data sebelumnya. Program mengharuskan membuat suatu fungsi yang menerima pointer dari array pertama, jumlah elemen, dan pointer output untuk sum, average, max, dan first index of max. Nilai keluaran adalah nilai sum, average, max, dan first index of max.
  */
 
 #include <stdio.h>
